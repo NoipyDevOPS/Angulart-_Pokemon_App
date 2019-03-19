@@ -6,5 +6,4 @@ A web app that uses [AngularDart](https://webdev.dartlang.org/angular) and
 Created from templates made available by Stagehand under a BSD-style
 [license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
 
-Angular Pokemon App Tutorial 
-URL: https://www.youtube.com/watch?v=yWIFBsTT2Ag
+Angular Pokemon App [Tutorial](https://www.youtube.com/watch?v=yWIFBsTT2Ag)
